@@ -1,1 +1,6 @@
 # hello-world
+
+# this is the first project I created on github
+# It doesn't do much things
+# Apparently...
+# It does nothing...
